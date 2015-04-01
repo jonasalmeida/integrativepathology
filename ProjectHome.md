@@ -1,0 +1,1 @@
+This is only the assembly point for IP. The assembly itself is performed by the [wApps tool](https://github.com/wApps/manifest#wapps-all-you-need-is-a-manifest)
